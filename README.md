@@ -5,9 +5,9 @@
 [![devDependency Status](https://david-dm.org/jordao76/tic-tac-toe-cli/dev-status.svg)](https://david-dm.org/jordao76/tic-tac-toe-cli#info=devDependencies)
 [![License](http://img.shields.io/:license-mit-blue.svg)](https://github.com/jordao76/tic-tac-toe-cli/blob/master/LICENSE.txt)
 
-### Simple CLI (command line interface) to play tic tac toe
+This is a simple CLI (command-line interface) to play tic-tac-toe or [ultimate tic-tac-toe](http://mathwithbaddrawings.com/2013/06/16/ultimate-tic-tac-toe/).
 
-Computer player using [aye-aye](https://github.com/jordao76/aye-aye).
+The computer player uses [aye-aye](https://github.com/jordao76/aye-aye).
 
 To play, you'll need [node.js](https://nodejs.org/en/); then clone the repo, cd into it, and:
 
