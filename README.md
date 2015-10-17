@@ -7,7 +7,9 @@
 
 ### Simple CLI (command line interface) to play tic tac toe
 
-Clone the repo, cd into it, then:
+Computer player using [aye-aye](https://github.com/jordao76/aye-aye).
+
+To play, you'll need [node.js](https://nodejs.org/en/); then clone the repo, cd into it, and:
 
 ```
 $ npm install
@@ -16,8 +18,6 @@ $ node_modules/.bin/gulp
 ...
 $ node lib/play.js
 ```
-
-You'll need [node.js](https://nodejs.org/en/).
 
 ## License
 
