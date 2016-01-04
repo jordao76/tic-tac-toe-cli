@@ -7,6 +7,8 @@
 
 This is a simple CLI (command-line interface) to play tic-tac-toe or [ultimate tic-tac-toe](http://mathwithbaddrawings.com/2013/06/16/ultimate-tic-tac-toe/).
 
+![CLI](ttt-cli.png)
+
 The computer player uses [aye-aye](https://github.com/jordao76/aye-aye).
 
 To play, you'll need [node.js](https://nodejs.org/en/); then clone the repo, cd into it, and:
