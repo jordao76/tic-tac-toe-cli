@@ -16,9 +16,7 @@ To play, you'll need [node.js](https://nodejs.org/en/); then clone the repo, cd 
 ```
 $ npm install
 ...
-$ node_modules/.bin/gulp
-...
-$ node lib/play.js
+$ npm start
 ```
 
 ## License

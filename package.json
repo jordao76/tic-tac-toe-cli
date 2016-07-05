@@ -4,6 +4,9 @@
   "version": "0.0.1",
   "description": "CLI for tic tac toe and variants",
   "main": "lib/play.js",
+  "scripts": {
+    "start": "coffee src/play.coffee"
+  },
   "repository": {
     "type": "git",
     "url": "https://github.com/jordao76/tic-tac-toe-cli.git"
